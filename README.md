@@ -1,2 +1,2 @@
 # NRGNet
-CN Dota, Best Dota.
+CN Dota, Best Dota！
